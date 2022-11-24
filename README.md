@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greatamani
 - 👀 I’m interested in web and softaware development
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on software debugging
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on software development
 - 📫 Reach me at, amani.ephraim@yahoo.com
 
 <!---
